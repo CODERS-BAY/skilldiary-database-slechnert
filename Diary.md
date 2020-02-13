@@ -22,4 +22,4 @@ Keys
 Relations
 ![ERM Relations](ERM4.png)
 
-We practiced it by 2 examples, whereas the first was done unskillfully and vague, the second as well but a lil better.
+We practiced it by 2 examples, whereas the first was done unskillfully and vague, the second arguably too, but still a lil better.
