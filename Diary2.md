@@ -35,4 +35,4 @@ I still don't like that shit, but I am open to acquiring the taste.
 
 <br>
 oh and we did a group exercise that is way more valuable to be shared then what I did up until now:<br>
-![cinemagroup](\group.jpeg)
+![cinemagroup](group.jpeg)
